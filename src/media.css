@@ -1,0 +1,92 @@
+@media only screen and (max-width: 650px) {
+    
+    .header-main-1-3-div {
+        padding-top: 200px;
+    }
+
+    .header-main-1-3-div .header-main-1 {
+        font-size: 30px;
+    }
+
+    .header-main-1-3-div .header-main-2 {
+        font-size: 50px;
+    }
+}
+
+@media only screen and (max-width: 620px) {
+    
+    .footer-link {
+        display: flex;
+        flex-direction: column;
+    }
+    .footer-link .nav-item {
+        margin-right: 0;
+    }
+
+}
+
+@media only screen and (max-width: 600px) {
+    
+    .form-wrapper form {
+        min-width: 0px;
+    }
+    .header-main {
+        padding: 0 50px;
+    }
+}
+
+@media only screen and (max-width: 550px) {
+    
+    .none {
+        display: none !important;
+    }
+
+}
+
+@media only screen and (max-width: 500px) {
+    
+    .container {
+        padding: 50px;
+    }
+
+    .form-wrapper form {
+        padding: 10px;
+    }
+
+}
+
+@media only screen and (max-width: 380px) {
+    
+    .menu-humburgermaxi {
+        width: 250px !important;
+    }
+    .cook-imgs img{
+        width: 200px;
+    }
+
+    .dishes-cart {
+        flex-direction: column;
+    }
+
+    .main-block0,
+    .main-block1,
+    .main-block2 {
+        width: 250px;
+    }
+
+    .block0-decoration,
+    .block1-decoration,
+    .block2-decoration {
+        font-size: 18px;
+    }
+
+}
+
+
+@media only screen and (max-width: 320px) {
+    
+    .gallery-img {
+        width: 200px;
+    }
+
+}
